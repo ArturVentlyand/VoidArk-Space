@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
+  title: 'Void Ark',
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -33,13 +33,25 @@ const config = {
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
-  // Even if you don't use internationalization, you can use this field to set
-  // useful metadata like html lang. For example, if your site is Chinese, you
-  // may want to replace "en" with "zh-Hans".
-  i18n: {
-    defaultLocale: 'en',
-    locales: ['en'],
-  },
+    i18n: {
+      defaultLocale: 'ru',
+      locales: ['ru', 'uk', 'en'],
+      localeConfigs: {
+        ru: {
+          label: 'Русский',
+          direction: 'ltr',
+        },
+        uk: {
+          label: 'Українська',
+          direction: 'ltr',
+        },
+        en: {
+          label: 'English',
+          direction: 'ltr',
+        },
+      },
+    },
+
 
   presets: [
     [
@@ -91,9 +103,13 @@ const config = {
             type: 'docSidebar',
             sidebarId: 'tutorialSidebar',
             position: 'left',
-            label: 'Справочник',
+            label: 'D&D',
           },
-          {to: '/blog', label: 'Blog', position: 'left'},
+          {to: '/blog', label: 'Masters place', position: 'left'},
+          {
+            type: 'localeDropdown',
+            position: 'right',
+          },
           {
             href: 'https://github.com/WizardArthur/VoidArk-Space.git',
             label: 'GitHub',
@@ -105,10 +121,10 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'D&D',
             items: [
               {
-                label: 'Справочник',
+                label: 'D&D',
                 to: '/docs/intro',
               },
             ],

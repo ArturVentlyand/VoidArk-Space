@@ -1,0 +1,30 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.en_v": {
+    "message": "en_v",
+    "description": "The label for category en_v in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.index": {
+    "message": "index",
+    "description": "The label for category index in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.ru_v": {
+    "message": "ru_v",
+    "description": "The label for category ru_v in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Волшебник": {
+    "message": "Волшебник",
+    "description": "The label for category Волшебник in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.ua_v": {
+    "message": "ua_v",
+    "description": "The label for category ua_v in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Бестиарий": {
+    "message": "Бестиарий",
+    "description": "The label for category Бестиарий in sidebar tutorialSidebar"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "version.label": {
+    "message": "Next",
+    "description": "The label for version current"
+  },
+  "sidebar.tutorialSidebar.category.index": {
+    "message": "index",
+    "description": "The label for category index in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Волшебник": {
+    "message": "Волшебник",
+    "description": "The label for category Волшебник in sidebar tutorialSidebar"
+  },
+  "sidebar.tutorialSidebar.category.Бестиарий": {
+    "message": "Бестиарий",
+    "description": "The label for category Бестиарий in sidebar tutorialSidebar"
+  }
+}
