@@ -1,5 +1,6 @@
 ---
 id: tiamat
+slug: /tiamat
 title: Тиамат
 ---
 

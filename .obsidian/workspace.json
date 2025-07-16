@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "a09f44a9a6bdec6d",
+        "id": "25d0a898602d3ec7",
         "type": "tabs",
         "children": [
           {
-            "id": "8f8247f5277e0b46",
+            "id": "e8c2ca1c39e80660",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/ru_v/classes/wizard/abjuration.md",
+                "file": "docs/classes/bard/eloquence.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "abjuration"
+              "title": "eloquence"
+            }
+          },
+          {
+            "id": "8d3b79652b035701",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/classes/fighter/index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "bdd09a9d808e094c",
@@ -166,8 +181,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -181,44 +195,46 @@
       "obsidiosaurus:Obsidiosaurus": false
     }
   },
-  "active": "8f8247f5277e0b46",
+  "active": "8d3b79652b035701",
   "lastOpenFiles": [
-    "docs/ru_v/classes/wizard/necromancy.md",
-    "docs/ru_v/classes/wizard/abjuration.md",
-    "docs/ru_v/classes/wizard/illusion.md",
-    "docs/ru_v/classes/wizard/conjuration.md",
-    "docs/ru_v/classes/wizard/evocation.md",
-    "docs/ru_v/classes/wizard/index.md",
-    "использование-заклинаний.md",
-    "docs/en_v/classes/wizard/index.md",
-    "docs/ua_v/spells/index.md",
+    "docs/backgrounds/soldier.md",
+    "templates/background_name.md",
+    "docs/classes/fighter/rune_knight.md",
+    "docs/classes/fighter/index.md",
+    "docs/classes/fighter/battle_master.md",
+    "docs/classes/fighter/eldritch_knight.md",
+    "docs/classes/fighter/champion.md",
+    "docs/classes/fighter/cavalier.md",
+    "docs/classes/fighter/arcane_archer.md",
+    "docs/classes/fighter/samurai.md",
+    "docs/classes/fighter/psi_warrior.md",
+    "templates/subclass_name.md",
+    "templates/class_name.md",
+    "docs/backgrounds/hermit.md",
+    "docs/classes/druid/index.md",
+    "docs/classes/druid/dreams.md",
+    "docs/classes/druid/land.md",
+    "docs/classes/druid/moon.md",
+    "docs/classes/druid/shepherd.md",
+    "docs/classes/druid/spores.md",
+    "docs/classes/druid/stars.md",
+    "docs/classes/druid/wildfire.md",
+    "templates/spell_name.md",
+    "docs/classes/bard/index.md",
+    "docs/backgrounds/entertainer.md",
+    "docs/classes/bard/lore.md",
+    "static/img/tokens/steel-defender.png",
+    "static/img/tokens/steel_defender.png",
+    "templates",
+    "docs/backgrounds",
+    "static/img/tokens",
+    "static/img/New folder",
     "docs/ua_v/spells",
-    "docs/ua_v/rules/index.md",
     "docs/ua_v/rules",
-    "docs/ua_v/races/index.md",
     "docs/ua_v/races",
     "docs/ua_v/items/non_magic",
-    "docs/ua_v/items/index.md",
     "docs/ua_v/items/magic",
     "docs/ua_v/items",
-    "docs/ua_v/classes/wizard/index.md",
-    "docs/ua_v/classes/barbarian/index.md",
-    "docs/ua_v/classes/sorcerer",
-    "docs/ua_v/classes/wizard",
-    "docs/ua_v/classes/barbarian",
-    "docs/ua_v/classes/warlock",
-    "docs/ua_v/classes/index.md",
-    "docs/ua_v/bestiary/index.md",
-    "docs/ru_v/spells/index.md",
-    "docs/ru_v/rules/index.md",
-    "docs/ru_v/races/index.md",
-    "docs/ru_v/items/index.md",
-    "docs/ru_v/classes/barbarian/index.md",
-    "docs/ru_v/classes/index.md",
-    "docs/ru_v/bestiary/index.md",
-    "docs/en_v/classes/barbarian/index.md",
-    "docs/en_v/items/index.md",
-    "docs/en_v/classes/index.md",
     "static/img/undraw_docusaurus_tree.svg",
     "static/img/undraw_docusaurus_react.svg",
     "static/img/undraw_docusaurus_mountain.svg",
