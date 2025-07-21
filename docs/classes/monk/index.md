@@ -5,7 +5,7 @@ title: Монах
 ---
 ## Название подклассов
 [Путь Открытой Ладони](/docs/open-hand)  
-[Путь Тени](/docs/shadow)  
+[Путь Тени](/docs/shadow-monk)  
 [Путь Четырёх Стихий](/docs/four-elements)  
 [Путь Кенсєя](/docs/kensei)  
 [Путь Пьяного Мастера](/docs/drunken-master)  

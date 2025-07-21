@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/classes/ranger/Untitled 2.md",
+                "file": "docs/classes/sorcerer/shadow_sor.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "shadow_sor"
+            }
+          },
+          {
+            "id": "471405c4173eddc3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/classes/warlock/archfey.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "archfey"
+            }
+          },
+          {
+            "id": "5d192b766069293e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/classes/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "index"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -181,34 +210,35 @@
       "obsidiosaurus:Obsidiosaurus": false
     }
   },
-  "active": "8d3b79652b035701",
+  "active": "5d192b766069293e",
   "lastOpenFiles": [
-    "docs/classes/ranger/beast_master.md",
-    "docs/classes/ranger/hunter.md",
-    "docs/classes/ranger/index.md",
-    "docs/classes/ranger/Untitled 7.md",
-    "docs/classes/ranger/Untitled 6.md",
-    "docs/classes/ranger/Untitled 5.md",
-    "docs/classes/ranger/Untitled 4.md",
-    "docs/classes/ranger/Untitled 3.md",
-    "docs/classes/ranger/Untitled 2.md",
-    "templates/subclass_name.md",
+    "docs/classes/cleric/index.md",
+    "docs/classes/cleric/twilight.md",
+    "docs/classes/cleric/peace.md",
+    "docs/classes/cleric/order.md",
+    "docs/classes/cleric/death.md",
+    "docs/classes/cleric/grave.md",
+    "docs/classes/cleric/forge.md",
+    "docs/classes/cleric/light.md",
+    "docs/classes/cleric/nature.md",
+    "docs/classes/cleric/trickery.md",
+    "docs/classes/cleric/knowledge.md",
+    "docs/classes/cleric/life.md",
+    "docs/classes/cleric/war.md",
+    "docs/classes/cleric/tempest.md",
+    "docs/backgrounds/soldier.md",
+    "docs/backgrounds/sage.md",
+    "docs/backgrounds/outlander.md",
     "docs/backgrounds/noble.md",
-    "docs/backgrounds/index.md",
+    "docs/backgrounds/hermit.md",
+    "docs/backgrounds/guild_artisan.md",
+    "docs/backgrounds/entertainer.md",
+    "docs/backgrounds/charlatan.md",
+    "docs/backgrounds/acolyte.md",
     "templates/background_name.md",
-    "docs/classes/paladin/index.md",
-    "docs/classes/index.md",
-    "docs/classes/barbarian/index.md",
+    "templates/mage_subclass_name.md",
     "templates/class_name.md",
-    "docs/classes/paladin/watchers.md",
-    "docs/classes/paladin/glory.md",
-    "docs/classes/paladin/oathbreaker.md",
-    "docs/classes/paladin/conquest.md",
-    "docs/classes/paladin/redemption.md",
-    "docs/classes/paladin/vengeance.md",
-    "docs/classes/paladin/ancients.md",
-    "docs/classes/paladin/devotion.md",
-    "docs/subclass-name.md",
+    "docs/gods",
     "static/img/tokens/steel-defender.png",
     "static/img/tokens/steel_defender.png",
     "templates",
@@ -220,7 +250,6 @@
     "docs/ua_v/races",
     "docs/ua_v/items/non_magic",
     "docs/ua_v/items/magic",
-    "docs/ua_v/items",
     "static/img/undraw_docusaurus_tree.svg",
     "static/img/undraw_docusaurus_react.svg",
     "static/img/undraw_docusaurus_mountain.svg",

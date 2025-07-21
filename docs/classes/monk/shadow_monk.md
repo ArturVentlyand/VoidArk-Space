@@ -1,6 +1,6 @@
 ---
-id: shadow
-slug: /shadow
+id: shadow-monk
+slug: /shadow-monk
 title: Путь Тени
 ---
 ## Описание

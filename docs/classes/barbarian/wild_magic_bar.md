@@ -1,6 +1,6 @@
 ---
-id: wild-magic
-slug: /wild-magic
+id: wild-magic-bar
+slug: /wild-magic-bar
 title: Путь Дикой Магии
 ---
 ## Описание
