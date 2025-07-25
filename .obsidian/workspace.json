@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/classes/index.md",
+                "file": "docs/races/aasimar.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "aasimar"
             }
           }
         ],
@@ -195,8 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -210,34 +209,34 @@
       "obsidiosaurus:Obsidiosaurus": false
     }
   },
-  "active": "5d192b766069293e",
+  "active": "9b4297cf5b2a6d51",
   "lastOpenFiles": [
-    "docs/classes/cleric/index.md",
-    "docs/classes/cleric/twilight.md",
-    "docs/classes/cleric/peace.md",
-    "docs/classes/cleric/order.md",
-    "docs/classes/cleric/death.md",
-    "docs/classes/cleric/grave.md",
-    "docs/classes/cleric/forge.md",
-    "docs/classes/cleric/light.md",
-    "docs/classes/cleric/nature.md",
-    "docs/classes/cleric/trickery.md",
-    "docs/classes/cleric/knowledge.md",
-    "docs/classes/cleric/life.md",
-    "docs/classes/cleric/war.md",
-    "docs/classes/cleric/tempest.md",
-    "docs/backgrounds/soldier.md",
-    "docs/backgrounds/sage.md",
-    "docs/backgrounds/outlander.md",
-    "docs/backgrounds/noble.md",
-    "docs/backgrounds/hermit.md",
-    "docs/backgrounds/guild_artisan.md",
-    "docs/backgrounds/entertainer.md",
-    "docs/backgrounds/charlatan.md",
-    "docs/backgrounds/acolyte.md",
-    "templates/background_name.md",
-    "templates/mage_subclass_name.md",
+    "docs/races/aasimar_scourge.md",
+    "docs/races/aasimar_protector.md",
+    "docs/races/aasimar.md",
+    "docs/races/aasimar_fallen.md",
+    "docs/index.md",
+    "templates/race_name.md",
+    "docs/races/aarakocra.md",
+    "templates/general_race_name.md",
     "templates/class_name.md",
+    "templates/subclass_name.md",
+    "templates/spell_name.md",
+    "templates/README.md",
+    "templates/monster_name.md",
+    "templates/mage_subclass_name.md",
+    "templates/item_name.md",
+    "templates/halfmage_subclass_name.md",
+    "templates/background_name.md",
+    "docs/classes/wizard/index.md",
+    "templates/race.md",
+    "docs/classes/warlock/index.md",
+    "docs/classes/sorcerer/index.md",
+    "docs/classes/rouge/index.md",
+    "docs/classes/ranger/index.md",
+    "docs/classes/paladin/index.md",
+    "docs/classes/monk/index.md",
+    "docs/classes/fighter/index.md",
     "docs/gods",
     "static/img/tokens/steel-defender.png",
     "static/img/tokens/steel_defender.png",

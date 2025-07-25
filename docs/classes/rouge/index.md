@@ -4,15 +4,15 @@ slug: /rogue
 title: Плут
 ---
 ## Название подклассов
-[Вор](/docs/thief)
-[Убийца](/docs/assassin)  
-[Мистический Ловкач](/docs/arcane-trickster)  
-[Дуэлянт](/docs/swashbuckler)  
-[Комбинатор](/docs/mastermind)  
-[Скаут](/docs/scout)  
-[Сыщик](/docs/inquisitive)  
-[Фаном](/docs/phantom)  
-[Клинок Души](/docs/soulknife)  
+- [Вор](/docs/thief)
+- [Убийца](/docs/assassin)  
+- [Мистический Ловкач](/docs/arcane-trickster)  
+- [Дуэлянт](/docs/swashbuckler)  
+- [Комбинатор](/docs/mastermind)  
+- [Скаут](/docs/scout)  
+- [Сыщик](/docs/inquisitive)  
+- [Фаном](/docs/phantom)  
+- [Клинок Души](/docs/soulknife)  
 ## Описание
 Плуты полагаются на мастерство, скрытность и уязвимые места врагов, чтобы взять верх в любой ситуации. У них достаточно сноровки для нахождения решения в любой ситуации, демонстрируя находчивость и гибкость, которые являются краеугольным камнем любой успешной группы искателей приключений.
 
